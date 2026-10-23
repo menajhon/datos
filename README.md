@@ -1,2 +1,2 @@
 # datos
-https://github.com/menajhon/datos.git
+para clonar repositorio: https://github.com/menajhon/datos.git
